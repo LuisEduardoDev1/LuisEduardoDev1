@@ -1,4 +1,4 @@
-### My name is luis eduardo, i'm developing my programming skills, here i'll share some of my projects, i hope you like it 🔥
+### My name is Luis Eduardo, i'm developing my programming skills, here i'll share some of my projects, i hope you like it 📚🔥
 
 <!--
 **LuisEduardoDev1/LuisEduardoDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
